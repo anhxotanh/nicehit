@@ -5,7 +5,7 @@ dist="unknown"
 DOWNLOAD_URL="https://www.dropbox.com/s/y10fgiygbtj1e9n/9hitsv3-linux64.tar.bz2?dl=1"
 CURRENT_HASH=$(date +%s)
 TOKEN="b0b7c4153737ac37199881dd23266574"
-NOTE="$HOSTNAME"
+NOTE=""
 MODE="exchange"
 AUTO_START="yes"
 HIDE_BROWSER="yes"
